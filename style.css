@@ -23,7 +23,7 @@ body {
 }
 
 .center-image {
-    width: 35vh; 
+    width: 150px; 
     height: auto; /* Maintain aspect ratio */
-    max-height: 50vh; /* Limit height to avoid overflow */
+    max-height: 200px; 
 }
