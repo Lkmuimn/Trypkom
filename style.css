@@ -25,8 +25,8 @@ margin-left:10px;
 }
 
 .center-image {
-    width: 300px; 
+    width: 100px; 
     height: auto; /* Maintain aspect ratio */
-    max-height: 400px; 
+    max-height: 200px; 
     float:left;
 }
